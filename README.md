@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Süleyman!</h1>
-<h3 align="center">Cloud Engineer from Turkey</h3>
+<h3 align="center">Cloud & Devops Engineer from Turkiye</h3>
 
-- 🌱 I'm currently learning various Devops tools <3
 - 📫 How to reach me **suleymankutukoglu0@gmail.com**
 
 
